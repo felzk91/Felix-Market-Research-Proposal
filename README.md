@@ -1,4 +1,4 @@
-A warm welcome to my repository, containing the Market Research Proposal for Nespresso that I have done as part of my Graduate Diploma Program.
+A warm welcome to my repository. This repository contains the Market Research Proposal for Nespresso that I have done as part of my Graduate Diploma Program.
 
 The proposal is responding to a research brief and contains the following,
 
